@@ -102,7 +102,7 @@ If you use this code, please cite:
 ```bibtex
 @inproceedings{tasad2026,
   title     = {TASAD: Temporal Adversarial Suppression via Anomaly Detection against Stealthy Backdoor Attacks in Federated Learning},
-  author    = {TODO: add author list},
+  author    = {Seyedehakram Salehi, Fatemeh Erfan, Adel Abusitta},
   booktitle = {Foundations and Practice of Security (FPS)},
   year      = {2026}
 }
@@ -111,4 +111,6 @@ If you use this code, please cite:
 
 ## License
 
-MIT (see `LICENSE`) — can be revisited later if needed.
+The code in this repository is licensed under the MIT License (see LICENSE) — free to use, modify, and redistribute with attribution.
+
+The paper itself is copyright the authors, with publishing rights exclusively licensed to Springer Nature Switzerland AG as part of the FPS 2026 proceedings. See the Version of Record at [DOI link, once available] for the paper's terms of reuse.
